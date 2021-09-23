@@ -9,6 +9,7 @@
   "scripts": {
     "test": "npx mocha -w --parallel ./test/**/*.test.js",
     "test:cov": "npx nyc npx mocha --parallel ./test/**/*.test.js",
+    "start": "node ./src/api.js",
     "seed": "node ./seed"
   },
   "keywords": [],
@@ -19,6 +20,7 @@
     "faker": "^5.5.3",
     "mocha": "8",
     "nyc": "15",
-    "sinon": "9"
+    "sinon": "9",
+    "supertest": "6"
   }
 }
