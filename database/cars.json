@@ -1,0 +1,23 @@
+[
+  {
+    "id": "6ad536ed-e443-40c3-8910-1d404b263380",
+    "name": "Silverado",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "3bb07d67-0ffe-46fc-989e-71df65ceefb2",
+    "name": "Cruze",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "892926cc-e1a9-40ca-85db-56a2545d560c",
+    "name": "Alpine",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  }
+]
